@@ -1,5 +1,5 @@
 # Action
-Conscious and willful #transformation achieved by the [actor] unto the [world].
+Conscious and willful [transformation] achieved by the [actor] unto the [world].
 
 [action]:https://github.com/sjinko/theory/blob/master/dictionary.md#action
 [act]:https://github.com/sjinko/theory/blob/master/dictionary.md#action
@@ -13,11 +13,17 @@ Conscious and willful #transformation achieved by the [actor] unto the [world].
 
 [agency]:https://github.com/sjinko/theory/blob/master/dictionary.md#agency
 
+***
+
 # Aspirations
 A [desired] state of #personal , #collective , or #societal #situation . #Ideal [social] or #material situations that #motivate the [actor] to [act] . **Aspirations** may be for the #self or #projected the [other] . **Aspirations** may be complementary, contradictory, combined, alternatives, or neutral to one another. With [affordances] and [capabilities], **aspirations** define [agency].
 
+***
+
 [aspiration]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
 [aspirations]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
+
+***
 
 # Affordances
 [social] or #material #spatial #configurations that allow the [actor] to [actualize] their [aspirations] . Actual or virtual #situations #used to [act] . **Affordances** may be simple, multiple, positive, or negative. With [aspirations] and [capabilities], **affordances define [agency].
@@ -26,6 +32,15 @@ A [desired] state of #personal , #collective , or #societal #situation . #Ideal 
 
 [affordance]:https://github.com/sjinko/theory/blob/master/dictionary.md#affordances
 [affordances]:https://github.com/sjinko/theory/blob/master/dictionary.md#affordances
+
+***
+
+# Cognitive affordance
+Type of [affordance] which the [actor] [produce] through a [cognitive process] and which [locate] within the actor’s [cognitive capital].
+
+[cognitive affordance]:https://github.com/sjinko/theory/blob/master/dictionary.md#cognitive_affordance
+
+***
 
 # Conception
 The [actor]’s [cognitive] process by which they model the world
@@ -39,6 +54,10 @@ The [actor]’s [cognitive] process by which they model the world
 
 [capability]:https://github.com/sjinko/theory/blob/master/dictionary.md#capabilities
 [capabilities]:https://github.com/sjinko/theory/blob/master/dictionary.md#capabilities
+
+# Entity 
+
+[entity]:https://github.com/sjinko/theory/blob/master/dictionary.md#entity
 
 # Invite
 An [affordance] [conceived] by the [actor] for an [other] as part of a #projection . The *invite* does not correspond to the other’s own set of [actual] or [virtual] affordance and does not necessarily corresponds to one of their [aspiration] . Therefore, an *invite* differs from a #virtual_affordance . Instead, the *invite* corresponds to what the actor believes to be the other’s aspiration, or what they want for this other.
@@ -55,9 +74,6 @@ An [affordance] [conceived] by the [actor] for an [other] as part of a #projecti
 # Projection
 #Cognitive #process by which and [actor] attributes #components of their [agency] to one [other] . [aspirations] , [affordances] and [capabilities] can all be *projected*. A *projection* can result from an actor’s [aspiration] to #transform the other or lack of #empathy . It can also result from the [aspiration] to train their [capability] in [actualizing] an #aspirable .
 
-# Cognitive_affordance
-Type of [affordance] which the [actor] #produce through a #cognitive_process and which #locate within the actor’s #cognitive_capital .
-
 # Cognitive_capital
 The entire set of #cognitive_affordance and [capabilities] of an [actor] , which they can use.
 
@@ -67,20 +83,29 @@ Type of [affordance] that correspond to the #knowledge of the [actor] . With [ca
 # Aspirable
 What the [actor] conceives as an [aspiration] but to which they do not aspirate themselve. An *aspirable* usually results from a #projection and therefore differs from a #virtual_aspiration by implying the [other] .
 
-# Virtual_aspiration
-State of an [aspiration] that has not been achieved. A *virtual_aspiration* is one of two stages of an aspiration with #actual_aspiration . 
+# Virtual aspiration
+State of an [aspiration] that has not been achieved. A **virtual_aspiration** is one of two stages of an aspiration with [actual aspiration].
 
-# Virtual_affordance
-The state of an [affordance] that is conceived by the [actor] as #usable to achieve an [aspiration] but that is not #use at the present moment. 
+[virtual aspiration]:https://github.com/sjinko/theory/blob/master/dictionary.md#virtual_aspiration
+
+# Virtual affordance
+The state of an [affordance] that the [actor] could as [actualize] to achieve an [aspiration] but that is not [use] at the present moment.
+
+[virtual affordance]:https://github.com/sjinko/theory/blob/master/dictionary.md#virtual_affordance
 
 # Transformation
-Process by which an [actor] actualizes their [aspiration] and therefore [act] unto the [world] .
+Process by which an [actor] actualizes their [aspiration] and therefore [act] unto the [world].
+
+[transformation]:https://github.com/sjinko/theory/blob/master/dictionary.md#transformation
 
 # Other
-[social] #entity [conceive] d by the [actor] as having [agency] and thus capable of [acting] unto the [world].
+[social] [entity] [conceive] d by the [actor] as having [agency] and thus capable of [acting] unto the [world].
+
 [other]:https://github.com/sjinko/theory/blob/master/dictionary.md#other
 
 # Social
+
+[social]:https://github.com/sjinko/theory/blob/master/dictionary.md#social
 
 # World
 [world]:https://github.com/sjinko/theory/blob/master/dictionary.md#world
