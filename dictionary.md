@@ -52,6 +52,6 @@ Process by which an #actor actualizes their [aspiration] and therefore #act unto
 #Social #entity #conceived #by the #actor as having #agency and thus capable of #acting unto the #world .
 
 
-[aspiration]:https://github.com/sjinko/theory/blob/master/dictionary.md/aspirations
+[aspiration]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
 
-[aspirations]:https://github.com/sjinko/theory/blob/master/dictionary.md/aspirations
+[aspirations]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
