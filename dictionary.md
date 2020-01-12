@@ -6,16 +6,16 @@
 # Aspirations
 A [desired] state of #personal , #collective , or #societal #situation . #Ideal [social] or #material situations that #motivate the #actor to #act . **Aspirations** may be for the #self or #projected the #other . **Aspirations** may be complementary, contradictory, combined, alternatives, or neutral to one another. With [affordances] and [capabilities], **aspirations** define [agency].
 
-	[aspiration]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
-	[aspirations]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
+[aspiration]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
+[aspirations]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
 
 # Affordances
 [social] or #material #spatial #configurations that allow the #actor to #actualize their [aspirations] . Actual or virtual #situations #used to #act . **Affordances** may be simple, multiple, positive, or negative. With [aspirations] and [capabilities], **affordances define [agency].
 
 *Affordances* can be used, blocked or...
 
-	[affordance]:https://github.com/sjinko/theory/blob/master/dictionary.md#affordances
-	[affordances]:https://github.com/sjinko/theory/blob/master/dictionary.md#affordances
+[affordance]:https://github.com/sjinko/theory/blob/master/dictionary.md#affordances
+[affordances]:https://github.com/sjinko/theory/blob/master/dictionary.md#affordances
 
 # Capabilities
 #Embodied or #extended #competences that the #actor #develops . #Personal or #collective aptitudes that enable the action to #act on [affordances] in order to #actualize [aspirations]. With [aspirations] and [affordances], **capabilities** define [agency].
