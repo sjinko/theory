@@ -14,8 +14,8 @@ Conscious and willful [transformation] achieved by the [actor] unto the [world].
 
 # Actual/Virtual
 
-[actual]:https://github.com/sjinko/theory/blob/master/dictionary.md#actual/virtual
-[virtual]:https://github.com/sjinko/theory/blob/master/dictionary.md#actual/virtual
+[actual]:https://github.com/sjinko/theory/blob/master/dictionary.md#actualvirtual
+[virtual]:https://github.com/sjinko/theory/blob/master/dictionary.md#actualvirtual
 
 
 # Agency
