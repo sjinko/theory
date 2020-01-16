@@ -97,6 +97,10 @@ Dimension of the [world] by opposition to the [social], of a [reality] that is c
 [Cognitive process] by which and [actor] attributes [components] of their [agency] to one [other]. [aspirations], [affordances] and [capabilities] can all be *projected*. A *projection* can result from an actor’s [aspiration] to [transform] the other or lack of [empathy]. It can also result from the [aspiration] to train their [capability] in [actualizing] an [aspirable].
 
 
+# Public_space
+Collective process by which [actors] [actualize] their individual [aspirations].
+
+
 # Cognitive_capital
 The entire set of [cognitive_affordance] and [capabilities] of an [actor], which they can use.
 
