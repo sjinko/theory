@@ -9,6 +9,13 @@ Conscious and willful [transformation] achieved by the [actor] unto the [world].
 [Social] [entity] that holds [agency] and that can [act] unto the [world].
 
 [actor]:https://github.com/sjinko/theory/blob/master/dictionary.md#actor
+[actors]:https://github.com/sjinko/theory/blob/master/dictionary.md#actor
+
+
+# Actual/Virtual
+
+[actual]:https://github.com/sjinko/theory/blob/master/dictionary.md#actual/virtual
+[virtual]:https://github.com/sjinko/theory/blob/master/dictionary.md#actual/virtual
 
 
 # Agency
