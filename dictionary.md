@@ -105,7 +105,7 @@ Dimension of the [world] by opposition to the [social], of a [reality] that is c
 
 
 # Public_space
-Collective process by which [actors] [actualize] their individual [aspirations].
+Collective process by which [actors] [actualize] their individual [aspirations] without relying on [cooperation].
 
 
 # Cognitive_capital
