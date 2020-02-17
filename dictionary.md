@@ -67,6 +67,8 @@ The [actor]’s [cognitive] process by which they model the world
 
 [entity]:https://github.com/sjinko/theory/blob/master/dictionary.md#entity
 
+# Globalization
+#Synchronisation of #aspirations between #individuals and #groups of individuals regardless of local #affordances . Stabilization of #affordance_commons for a greater number of individuals (see #urbanization).
 
 # Ideal
 
@@ -151,6 +153,8 @@ Process by which [information] is exchanged between [actors], and by which [real
 
 # Societal
 
+# Urbanization
+Massive production of #affordances and #affordance_commons .
 
 # Virtual aspiration
 State of an [aspiration] that has not been achieved. A **virtual_aspiration** is one of two stages of an aspiration with [actual aspiration].
