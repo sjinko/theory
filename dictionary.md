@@ -30,6 +30,10 @@ A [desired] state of [personal], [collective], or [societal] [cofiguration]. [Id
 [aspirations]:https://github.com/sjinko/theory/blob/master/dictionary.md#aspirations
 
 
+# Aspirable
+What the [actor] conceives as an [aspiration] but to which they do not aspirate themselve. An *aspirable* usually results from a [projection] and therefore differs from a [virtual_aspiration] by implying the [other].
+
+
 # Affordances
 [social] or [material] [configurations] that allow the [actor] to [actualize] their [aspirations]. [Actual] or [virtual] [situations] [used] to [act]. **Affordances** may be simple, multiple, positive, or negative. With [aspirations] and [capabilities], **affordances define [agency].
 
@@ -62,6 +66,11 @@ The [actor]’s [cognitive] process by which they model the world
 [conceive]:https://github.com/sjinko/theory/blob/master/dictionary.md#conception
 [conceives]:https://github.com/sjinko/theory/blob/master/dictionary.md#conception
 
+
+# Empowerment
+Process by which the individual or group of individuals develop more [capabilities].
+
+[empowerment]:https://github.com/sjinko/theory/blob/master/dictionary.md#empowerment
 
 # Entity 
 
@@ -118,10 +127,6 @@ The entire set of [cognitive_affordance] and [capabilities] of an [actor], which
 
 # Cognitive_affordance
 Type of [affordance] that correspond to the [knowledge] of the [actor]. With [capabilities], **cognitive affordances** form the [cognitive_capital] of the [actor]. 
-
-
-# Aspirable
-What the [actor] conceives as an [aspiration] but to which they do not aspirate themselve. An *aspirable* usually results from a [projection] and therefore differs from a [virtual_aspiration] by implying the [other].
 
 
 # Transformation
