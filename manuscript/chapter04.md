@@ -16,9 +16,9 @@ While our feeling of desire might be bigger for ourselves and those we love, we 
 
 Our desire may even apply to non-humans such as pet, or wild life, flora, and the environement. 
 
-In general, aspirations follow two evolutionary paths: one concerns the distance to the self, and the second the degree of abstraction.
+In general, aspirations follow two evolutionary paths: one concerns the distance to the self, and the second the degree of abstraction. In [Table 1], I give four examples that illustrate the range of aspirations from basic to abtract and from personal to distant. Unsurprisingly, basic aspirations correspond to those that we develop at an early stage in our life. These also correspond to the “basic needs” such as eating, clothing and shelter. The most basic personal aspirations are somewhat universal. On the other hand, aspirations for distant entities and abstract aspirations vary greatly from one individual to another. 
 
-### Table 1: Afforance matrix
+### Table 1: Aspiration matrix
 |          | Basic               | Abstract        |
 |----------|---------------------|-----------------|
 | Personal | Drinking water      | Going to heaven |
@@ -26,5 +26,6 @@ In general, aspirations follow two evolutionary paths: one concerns the distance
 
 [Table 1]:https://github.com/sjinko/theory/blob/master/manuscript/chapter04.md###chapter04-table01
 
-In [Table 1], I give for examples that illustrate basic personal, basic distant, abstract personal and abstract distant aspirations.
+
+
 
