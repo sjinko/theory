@@ -18,7 +18,7 @@ Our desire may even apply to non-humans such as pet, or wild life, flora, and th
 
 In general, aspirations follow two evolutionary paths: one concerns the distance to the self, and the second the degree of abstraction.
 
-### Table 1: Afforance matrix
+### Table 1: Afforance matrix
 |          | Basic               | Abstract        |
 |----------|---------------------|-----------------|
 | Personal | Drinking water      | Going to heaven |
