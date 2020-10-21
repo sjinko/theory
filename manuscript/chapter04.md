@@ -18,12 +18,13 @@ Our desire may even apply to non-humans such as pet, or wild life, flora, and th
 
 In general, aspirations follow two evolutionary paths: one concerns the distance to the self, and the second the degree of abstraction.
 
+### Table 1: Afforance matrix
 |          | Basic               | Abstract        |
 |----------|---------------------|-----------------|
 | Personal | Drinking water      | Going to heaven |
 | Distant  | No animal suffering | Sustainability  |
 
-[Table 1: Affordance matrix]:https://github.com/sjinko/theory/edit/master/manuscript/chapter04.md#chapter04-table01
+[Table 1: Affordance matrix]:https://github.com/sjinko/theory/edit/master/manuscript/chapter04.md###chapter04-table01
 
 In Table [chapter04-table01], I give for examples that illustrate basic personal, basic distant, abstract personal and abstract distant aspirations.
 
