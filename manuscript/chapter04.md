@@ -1,4 +1,4 @@
-*** Rought draft — do not cite, do not share ***
+***Rought draft — do not cite, do not share***
 
 
 # Components of the model
@@ -28,6 +28,10 @@ In general, aspirations follow two evolutionary paths: one concerns the distance
 | Distant  | No animal suffering | Sustainability  |
 
 [Table 1]:https://github.com/sjinko/theory/blob/master/manuscript/chapter04.md###chapter04-table01
+
+The distinction between “aspirations”, “desires” and “wants” may seem thin, and it is. The reason why I use aspirations has to do with the seemingly more abstract nature of the notion. We often associate “desire” with a feeling or an uncontrolable urge. Wants are often opposed to needs, making them seem unecessary, superflous or frivolous. Aspiration, on the contrary are associated with greater ideals and with distant future, which may seem odd to speak of a baby’s aspiration to drink their mothers’ milk. Yet, as we will see, a basic and immediate desire and a greater abstract goal can be put on the same level of importance in given circumstances. Moreover, I argue–and this is one of the main point of this book—that we define distant and abstract aspirations through the same process than we define basic and personal ones: by our capabilities on perceived affordances.
+
+***
 
 
 
