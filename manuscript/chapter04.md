@@ -18,9 +18,10 @@ Our desire may even apply to non-humans such as pet, or wild life, flora, and th
 
 In general, aspirations follow two evolutionary paths: one concerns the distance to the self, and the second the degree of abstraction.
 
-|          | Basic               | Abstract       |
-|----------|---------------------|----------------|
-| Personal | Eating              | Fame           |
-| Distant  | No animal suffering | Sustainability |
+|          | Basic               | Abstract        |
+|----------|---------------------|-----------------|
+| Personal | Drinking water      | Going to heaven |
+| Distant  | No animal suffering | Sustainability  |
+
 
 
