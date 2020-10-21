@@ -24,7 +24,7 @@ In general, aspirations follow two evolutionary paths: one concerns the distance
 | Personal | Drinking water      | Going to heaven |
 | Distant  | No animal suffering | Sustainability  |
 
-[Table 1]:https://github.com/sjinko/theory/edit/master/manuscript/chapter04.md###chapter04-table01
+[Table 1]:https://github.com/sjinko/theory/blob/master/manuscript/chapter04.md###chapter04-table01
 
 In [Table 1], I give for examples that illustrate basic personal, basic distant, abstract personal and abstract distant aspirations.
 
