@@ -1,3 +1,6 @@
+*** Rought draft — do not cite, do not share ***
+
+
 # Components of the model
 
 This chapter present the conceptual components of the ethics model:
