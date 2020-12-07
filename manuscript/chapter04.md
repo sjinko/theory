@@ -1,4 +1,4 @@
-***Rought draft — do not cite, do not share***
+***Rough draft — do not cite, do not share***
 
 
 # Components of the model
@@ -8,7 +8,9 @@ This chapter present the conceptual components of the ethics model:
 * Affordances
 * Capabilities
 
-## Aspirations
+***
+
+# Aspirations
 Aspirations is a universal concept that describes a human reality: desire. From the moment we are born, we desire. The desire not to be exposed to light, the desire for warth, the desire for food. Of course, only later can we begin conceptualizing, discerning and naming these desires, but this do not mean they do not exist from the moment we come into this world.
 
 With time, our desire multiplies. We start wanting to be held, to be talked to, and to move things. Soon, we want affection, we crave certain food, we want to play with our toys. As we grow older, these aspirations become more abstract, like going to college, traveling, meeting the right person, etc.
@@ -65,4 +67,26 @@ Morality is the collectively defined hierarchy of aspirations. Morality help us 
 ## Guilt
 When we go against this priority
 
+
+***
+
+# Affordances
+
+Affordances allow us to actualise our aspirations by providing us with *material* (physical and ideal) that "does the job"?
+
+To understand the relationship between aspiration and affordances, I might want to to observe practices. For example, if I am wearing a sanitary mask in public, it is to fill several aspirations: protect myself from contamination, obey social norm, conform to a practice that I deem valid. By opposition, I would not want to wear a plexiglas mask because I think it looks stupid, and it would make me stand out in public. Also, I am not sure of their efficiency. Therefore, the sanitary mask allow me to actualise these aspirations, as well as my aspiration to go out and, for example, my aspiration to go buy something. 
+
+
+The quality of an affordance results of this “trade off” between various aspirations that, in a sense, even define the affordance.
+
+Affordance need to be defined, first by being perceived. In fact, the perception of an affordance is rather its “invention” the same way we “invent” a treasure in French law. The affordance only exist at the moment it is conceived by its user.
+
+Can affordances be perceived by many? Well, since all individuals have different sets of aspirations, the affordance itself may not be perceived collectively but it is possible to recognise that an artefact or a person represents an affordance for some one else. This relates to out capacity for **empathy**, that is to **project** unto others our aspirations (or is it the opposite?).
+
+
+In politics, voters’ preferences relate to the affordance they invent for themselves in parties ideologies and platforms, candidates, etc. the more aspirations diverge, the more the invention of these affordance will be different between two people. The example of politics raises the question of the agency of politicians in shaping their platform to suit people’s aspirations. In a sense, to actualise their aspiration of being elected (which is linked to other aspirations on social status, income, power, etc.), politicians must provide affordances (or **invites** to take the term used by Irene in reference to Jade’s work) that will hopefully be invented into affordances by voters.
+
+Populism would be defined here as the practice of systematically providing **invites** that suit non-societal aspirations of voters, while politics (by opposition) would be 
+
+ 
 
