@@ -8,10 +8,13 @@ This chapter present the conceptual components of the ethics model:
 * Affordances
 * Capabilities
 
+I find that in this model, the three notions should be conceived as something that resides within the individual. Aspirations, Affordances and Capabilities I define here only exist in the mind of the individual. Of course, it is possible to discuss and share those with others, but these are of different nature that those I explain below. For example, one could suggest an aspiration or an affordance to someone, but if this second person does not see it as an their own aspiration or affordance, they simply are not. This raises the question on how we can study or event discuss such matters, since they only exist within the self. In the sense, this raises the same question as to the colour or the odour of things. How we know if what we see as blue is the same as what others see as blue? Empathy, again, might be the key. Based on a shared personal experience, we can associate one explanation of aspirations, affordance and capabilities. Those share personal experience also serve in fact to create a bound between individuals. Because we conceive aspirations, affordances and capabilities to be something we can have in common, we become one with others. This could explain why it is easier to “relate” to people with whom we “share” aspirations, even if this does not mean that this person will provide us in any way with an (social) affordance. At least, we can “relate”. Likewise, we relate tho those with whom we share capabilities, even though they might be our “competitors”, and we relate with those with whom we share affordances. The sharing of affordances can also introduce competition if these are perceived as resources (affordances that are limited in usage) or cooperation if these are commons (affordances which need maintenance). **The model therefore also not only explains agency, be also how we build social relatednesss.**
+
+
 ***
 
 # Aspirations
-Aspirations is a universal concept that describes a human reality: desire. From the moment we are born, we desire. The desire not to be exposed to light, the desire for warth, the desire for food. Of course, only later can we begin conceptualizing, discerning and naming these desires, but this do not mean they do not exist from the moment we come into this world.
+Aspirations is a universal concept that describes a human reality: desire. From the moment we are born, we desire. The desire not to be exposed to light, the desire for warmth, the desire for food. Of course, only later can we begin conceptualizing, discerning and naming these desires, but this do not mean they do not exist from the moment we come into this world.
 
 With time, our desire multiplies. We start wanting to be held, to be talked to, and to move things. Soon, we want affection, we crave certain food, we want to play with our toys. As we grow older, these aspirations become more abstract, like going to college, traveling, meeting the right person, etc.
 
@@ -86,7 +89,17 @@ Can affordances be perceived by many? Well, since all individuals have different
 
 In politics, voters’ preferences relate to the affordance they invent for themselves in parties ideologies and platforms, candidates, etc. the more aspirations diverge, the more the invention of these affordance will be different between two people. The example of politics raises the question of the agency of politicians in shaping their platform to suit people’s aspirations. In a sense, to actualise their aspiration of being elected (which is linked to other aspirations on social status, income, power, etc.), politicians must provide affordances (or **invites** to take the term used by Irene in reference to Jade’s work) that will hopefully be invented into affordances by voters.
 
-Populism would be defined here as the practice of systematically providing **invites** that suit non-societal aspirations of voters, while politics (by opposition) would be 
+Populism would be defined here as the practice of systematically providing **invites** that suit non-societal aspirations of voters, while politics (by opposition) would be
 
- 
 
+Affordances can be of two types: limited or unlimited. When we speak of limited affordances, we can use the word “ressource”. Unlimited affordances are also of two types, those which we have to maintain, “commons”, and those that we do not have to maintain, like the wind, and for which I do not have yet a word.
+
+***
+
+# Capabilities
+
+Capabilities reside in the knowledge of a set of practices and gestures, which, together, give the ability to use affordance in order to actualise aspirations. Capabilities are honed over time by individuals in relation to the affordances they find in their environment and the aspirations they have. The acquisition of capabilities can itself be an aspiration. 
+
+One important set of capabilities relating to agency are capabilities that allow to invent aspirations, and those that allow to invent affordances. The capability to “invent" or to perceive affordances is necessary to individuals to actualise their aspirations. Likewise, there are capabilities to invent aspirations from the other capabilities and affordances one has. 
+
+Is there multiple types of capabilities? 
