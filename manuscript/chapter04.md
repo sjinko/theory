@@ -13,8 +13,6 @@ I find that in this model, the three notions should be conceived as something th
 The **capability** to relate is however honed over time, like **empathy**, **care** and **solicitude**. While these are honed, they are also triggered by **aspirations** and **affordances**. In fact, the **capability** to care fosters **aspiration** for the wellbeing of others, or vice-versa. The model builds on this iterative process between the three components. Hence, the **capability** to care for other will foster the **invention** of **affordances**  to actualise the **aspiration** for their wellbeing, just as the latter will depend on the availability of **affordances** and our **capability** to invent or find those **affordances** in our **environment**.
 
 
-
-
 ***
 
 # Aspirations
@@ -50,7 +48,14 @@ What would be the difference between **aspirations** and **objectives**? Conside
 
 One‘s aspiration cannot be “in conflict” per see. However, the actualisation of certain aspirations may limit the invention of affordances or the honing of capabilities for another aspiration. Hence, when we feel that two or more of our aspirations are “in conflict”, we foresee that the actualisation of one generates **conditions** that **limit** the actualisation of the other. 
 
-What does it mean to **limit** the actualisation of an aspiration?
+What does it mean to **limit** the actualisation of an aspiration? Again, the limitation of an aspiration has perhaps more to do with creating virtual environments since only invented affordances can really be put to use. Therefore, limiting the actualisation of an aspiration is an anticipation in which one is not able to invent affordance or does not hold the capability imagine how they would invent affordances in the future, and consider that this limitation is a transformation of the **environment** by themselves or by others.
+
+This raises the question of what is the difference between **conditions** and **environment**. In short, **conditions** is the configuration of all three dimensions of agency (aspirations, capabilities and affordances), while **environment** only refers to the configuration of perceived affordances, but in relation to the capability and the aspiration of the individuals, since affordances don’t exist on their own!
+
+
+This means that capabilities are also, in a sense, contextual, in a similar way that **affordances** are contextual (but also, so are aspirations, but more on that later). The model does not entail that capabilities are constantly active. Capabilities “surface” when needed, but otherwise lay dormant.
+
+This prompts me to address the notion of “invites”, in relation to affordances. 
 
 
 ***
