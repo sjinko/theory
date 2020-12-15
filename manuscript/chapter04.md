@@ -53,7 +53,12 @@ What does it mean to **limit** the actualisation of an aspiration? Again, the li
 This raises the question of what is the difference between **conditions** and **environment**. In short, **conditions** is the configuration of all three dimensions of agency (aspirations, capabilities and affordances), while **environment** only refers to the configuration of perceived affordances, but in relation to the capability and the aspiration of the individuals, since affordances don’t exist on their own!
 
 
-This means that capabilities are also, in a sense, contextual, in a similar way that **affordances** are contextual (but also, so are aspirations, but more on that later). The model does not entail that capabilities are constantly active. Capabilities “surface” when needed, but otherwise lay dormant.
+This means that capabilities are also, in a sense, contextual, in a similar way that **affordances** are contextual (but also, so are aspirations, but more on that later). The model does not entail that capabilities are constantly active. Capabilities “surface” when needed, but otherwise lay dormant. Capabilities would correspond to what JL call “capital de stock”, that is the accumulation of **knowledge** and **know-how**. 
+
+In this model, capabilities correspond to know-how. **Knowledge** takes a specific intermediary form in this model as it is the byproduct on the capability to produce **informational affordance** from the environment and the capability to retain this **informational affordance**. Here, I use the term **informational affordance** to highlight the fact that information is retrieved from **affordances**. Of course, the **information** can be passed down directly from one individual to another, the even this transmission process requires an **encoding** and a **decoding** of the information by a cognitive process by which both individuals have to rely on previous knowledge. For example, if I say “the cat is black”, my interlocutor and I both have to retrieve knowledge on what is a cat and what is black. This information relies on encoded memories of previous encounters of the sound “cat” and “black”.
+
+Knowledge, once retain can be directly used as an affordance. Here, other capabilities such as synthesis, analysis, action-thinking, etc. put these affordances to use to achieve particular aspirations.
+
 
 This prompts me to address the notion of “invites”, in relation to affordances. 
 
