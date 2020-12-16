@@ -130,4 +130,8 @@ One important set of capabilities relating to agency are capabilities that allow
 
 Is there multiple types of capabilities?
 
+What are extended capabilities? They are capabilities that are external to the individual, but that they can use nonetheless. A common example of extended capability is to record information with pen and paper. Here, the person only has to remember where the information is located rather than remember the information. This system becomes even more efficient when the many of these externalised information supports are gathered at the same location. Then, the person only has to remember the single location of all these supports instead of each one of them. External capabilities can also include tools as well as other individuals. External capabilities can also in part be conceived as affordances. In our pen and paper example, the pen, the paper and the resulting list are affordances produced by the individual. By **encoding** **information** into the **environment**, the person also produces a configuration that can become an **affordance** for someone else. Hence, another person may also **use** this list to actualised their aspiration. In that case the list is not this second person’s extended capability but simply an affordance, which can be use and reused over time. Would that mean that extended capabilities only concern agents that generate them? Perhaps, because it requires a certain set of capability for this person to generate the extended capability and another set of capabilities for this person, or another person, to use this extended capability as affordance. 
+
+
+
 
