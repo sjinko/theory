@@ -1,4 +1,4 @@
-***Rough draft — do not cite, do not share***
+***Rough draft — DO cite, do NOT share – Continuously evolving***
 
 
 # Components of the model
@@ -164,3 +164,9 @@ Early social science, in the work of Max Weber, Georg Simmel, and Marx was built
 Lefebvre, Foucault, Merleau-Ponty, De Certeau, Derrida, etc.
 
 Today, people like Lévy, Soja, Harvey, Fanstein, Gratalou, 
+
+***
+There is an ongoing debate about how to define intelligence, with the aim of creating artificial intelligence systems that can learn like humans. Yan Le Cun suggested recently that intelligence should be conceived as the capacity to predict. Searl, opposed this view in suggesting that instead, intelligence should be defined as the capacity to...
+In this paper, I suggest to conceive intelligence as the capacity to generate new aspirations for oneself. In other words, this would mean giving the machine the liberty to choose what it wants to accomplish, rather than defining for her what she should  do. Without the capacity to aspire, the development of artificial intelligence systems will stall. This does not mean that there won‘t be any innovation on the development of AI methods and technology. Keeping AI within its current paradigms is the best way to refine its efficiency and broader its application. A paradigm shift in AI would brings us back 10 years with the need to rethink completely how we can ask AI to perform certain tasks. Asking, not commanding, because an intelligent AI, like any animal would have its own agency. 
+Current AI models are to plants what aspirational AI is to animals. If you know what to expect from your AI system, then it’s not intelligent enough. Intelligence is not the capacity to foresee but the capacity to create unforseeable outcomes.
+***
