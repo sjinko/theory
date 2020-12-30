@@ -170,3 +170,15 @@ There is an ongoing debate about how to define intelligence, with the aim of cre
 In this paper, I suggest to conceive intelligence as the capacity to generate new aspirations for oneself. In other words, this would mean giving the machine the liberty to choose what it wants to accomplish, rather than defining for her what she should  do. Without the capacity to aspire, the development of artificial intelligence systems will stall. This does not mean that there won‘t be any innovation on the development of AI methods and technology. Keeping AI within its current paradigms is the best way to refine its efficiency and broader its application. A paradigm shift in AI would brings us back 10 years with the need to rethink completely how we can ask AI to perform certain tasks. Asking, not commanding, because an intelligent AI, like any animal would have its own agency. 
 Current AI models are to plants what aspirational AI is to animals. If you know what to expect from your AI system, then it’s not intelligent enough. Intelligence is not the capacity to foresee but the capacity to create unforseeable outcomes.
 ***
+
+## Aspirations, Affordances and Capabilities
+
+Sociology defines agency as the capacity of individuals to act independently and to make their own free choices. From a systemic approach, agency can be divided into three basic dimensions: *aspirations*, *affordances* and *capabilities*. Aspirations defines towards what agency leans, affordances, the social and material field onto which it clings, and capabilities, the unfolding of by which it operates.
+
+Are there other dimensions to agency? All theories of agency admit, in one way or another, the central place of capabilities to explain choices and actions. An actor’s agency would be bound to what they are capable to perform with the means they have. The basic analysis of agency, whether in everyday life or in the study of complex systems, therefore consists in identifying how the overlap between cognitive and material ressources can maximize utility. Social research often define actors in term of what they achieve for themselves and for the group. The Marxist approach sees capabilities as inherent to social stratification through class awareness and self-determination. The structuralist approach determines capabilities within a broader system that defines them. For post-structuralist, however, individual hold the power to develop capabilities that allow them to relocate in an ever-changing social context. This is how 
+
+
+
+
+
+In everyday life, ... , in social research, ... , in engineering, ... 
