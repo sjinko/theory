@@ -183,4 +183,45 @@ Thinking of agency in those terms is not as simple as it may seem. Capabilities 
 
 The difficulty to combine and articulate different ethical frameworks comes from the transformative effect it has on each individual's agency. Philosophers and policymakers who believe that we can create ethical frameworks for the mass like we apply laws and regulations should reconsider what are the limits of the paradigm that turns ethics into norms.
 
-The two other dimensions of agency are less commonly discussed. We could, for example ignore the notion of aspiration by considering that the same action could result from different desires and obligations. Consequentialism for example does not take into account what drives actions but only their outcome. Similarly, deontology also does not give too much importance to aspirations as long as actions respect given norms. As for virtue ethics, it depletes agency from any non-idealistic motivation. Yet, we still act despite foreseeing negative consequences, breaking of rules and down-to-earth yearnings. 
+The two other dimensions of agency are less commonly discussed. We could, for example ignore the notion of aspiration by considering that the same action would result from different desires and obligations. Consequentialism for example does not take into account what drives actions but only their outcome. Similarly, deontology also does not give too much importance to aspirations as long as actions respect given norms. As for virtue ethics, it depletes agency from any non-idealistic motivation. Yet, we still act despite foreseeing negative consequences, breaking of rules and down-to-earth yearnings. Thus aspirations provide another dimension of the ethics of agency, which are, if not normative in themselves, a powerful entry point to understand the relationship between actors and their action.
+
+The notion of affordance appears indissociable from action. Laws of physics state that to any action there is a reaction. Formulated otherwise, we could say that any action and reaction are interdependent. Therefore to act—and as mentioned above, we always act unto something—, we need something else to react. This other thing is an affordance. While the most obvious examples of this are objects such as tools and surfaces, these represent a very small fraction of the affordances needed to conduct agency. Affordances can also be social such as the people we engage with, but even entirely immaterial like ideas and memories.
+
+Could we imagine aspirations to be part of affordances? We probably could, the same way that we confine our desires with others to receive their support. The reason I suggest to keep this triadic model is that in looking at the direct interactions between these three dimensions, we might want to consider the interdependency between aspirations/affordances, affordances/capabilities and capabilities/aspirations. For this last couple, capabilities suppose a concrete action, and therefore an aspiration to drive the action, but if we can invent several affordances (in a cityscape for example), we can develop complex aspirations that require many capabilities. In this context, we can conceive diverse sets of aspirations, with different ways to sharing affordances, but this sharing operates thank to the capability of each actor to articulate their use of affordances harmoniously in a given environment. The distinction between aspirations and affordances thus result from the a capability of societies to generate collective agency: each individual agency combines with others to form various levels of collective agencies, that in turn can also interact with one another across levels and degrees of complexity. 
+
+
+%%% In other words, when aspirations become affordances they fuel motivation. On the other hand, the opposite results in our transformation of the environment. In both cases, possibility to do so  depends on the actor’s capability to operate this dimensional translation.
+   
+
+
+Such process of defining collective agency operates more or less explicitly horizontally and vertically. Horizontally, it encompasses every pairs of actors such as collective agency could be defined as:
+
+Ach = n*(n-1)/2
+
+where Ach is the number of horizontal collective agency and n the number of actors considered. Vertically, it encompasses every group size possible such as collective agency could be defined as:
+
+Acv = (n-1)**2
+
+Where Acv is the number of vertical collective agency. Combined, those result in the total number of collective agency possible defined as:
+
+
+
+***
+
+Agency could be considered in term of non-linear relationship between levels of agents.
+
+One individual is level 1, two individuals is level 2, etc.
+There is an infinity of levels since there is an infinity of agents.
+
+For example, in a group of one, there is one agency of level 1, and none of the others. In a group of two, there is two level 1 and one level two. In a group of three, there is three level 1, three level 2 and one level 3. 
+
+In addition, we should also consider each level of agency as an agent it itself. In that case, in a group of one, there is one level 1, and none of the others. In a group of two, there is two level 1 and three level 2. In a group of three, there is three level 1, eighteen level 2 and 
+
+
+
+
+We could say the same of a given group of individuals who, by sharing an environment, remain in a constant state of competition and cooperation. 
+
+These levels of agency 
+
+ 
