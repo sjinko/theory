@@ -189,6 +189,33 @@ The notion of affordance appears indissociable from action. Laws of physics stat
 
 Could we imagine aspirations to be part of affordances? We probably could, the same way that we confine our desires with others to receive their support. The reason I suggest to keep this triadic model is that in looking at the direct interactions between these three dimensions, we might want to consider the interdependency between aspirations/affordances, affordances/capabilities and capabilities/aspirations. For this last couple, capabilities suppose a concrete action, and therefore an aspiration to drive the action, but if we can invent several affordances (in a cityscape for example), we can develop complex aspirations that require many capabilities. In this context, we can conceive diverse sets of aspirations, with different ways to sharing affordances, but this sharing operates thank to the capability of each actor to articulate their use of affordances harmoniously in a given environment. The distinction between aspirations and affordances thus result from the a capability of societies to generate collective agency: each individual agency combines with others to form various levels of collective agencies, that in turn can also interact with one another across levels and degrees of complexity. 
 
+## Organizing the dimensions of agency
+
+Aspirations, affordances and capabilities are infinite. Aspirations: Motivation can be bodily or idealistic. Affordances: We can use objects, people, signs and ideas. Capabilities: Skill and aptitude that combine our know-how and the ability to act. As a general rule, we can classify the three dimensions according to different sets of values. The following tables give these values and give examples for each combination.
+
+### Table 1: Aspiration matrix
+|          | Basic               | Abstract        |
+|----------|---------------------|-----------------|
+| Personal | Drinking water      | Going to heaven |
+| Distant  | No animal suffering | Sustainability  |
+
+### Table 2: Affordance matrix (in the field of design)
+|            | Material  | Social       | Ideal   |
+|------------|-----------|--------------|---------|
+| Ressources | Beam     | Designer     | Style   |
+| Commons   | Landscape | Public space | Concept |
+
+### Table 3: Capabilities matrix
+|             | Personal | Extended      |
+|-------------|----------|---------------|
+| Individual  | Jumping  | Pole jumping | 
+| Social      | Language | Writting     |
+
+
+
+
+
+***
 
 %%% In other words, when aspirations become affordances they fuel motivation. On the other hand, the opposite results in our transformation of the environment. In both cases, possibility to do so  depends on the actor’s capability to operate this dimensional translation.
    
@@ -203,10 +230,6 @@ where Ach is the number of horizontal collective agency and n the number of acto
 Acv = (n-1)**2
 
 Where Acv is the number of vertical collective agency. Combined, those result in the total number of collective agency possible defined as:
-
-
-
-***
 
 Agency could be considered in term of non-linear relationship between levels of agents.
 
