@@ -10,12 +10,65 @@ This chapter present the conceptual components of the ethics model:
 
 I find that in this model, the three notions should be conceived as something that resides within the individual. Aspirations, Affordances and Capabilities I define here only exist in the mind of the individual. Of course, it is possible to discuss and share those with others, but these are of different nature that those I explain below. For example, one could suggest an aspiration or an affordance to someone, but if this second person does not see it as an their own aspiration or affordance, they simply are not. This raises the question on how we can study or event discuss such matters, since they only exist within the self. In the sense, this raises the same question as to the colour or the odour of things. How we know if what we see as blue is the same as what others see as blue? Empathy, again, might be the key. Based on a shared personal experience, we can associate one explanation of aspirations, affordance and capabilities. Those share personal experience also serve in fact to create a bound between individuals. Because we conceive aspirations, affordances and capabilities to be something we can have in common, we become one with others. This could explain why it is easier to “relate” to people with whom we “share” aspirations, even if this does not mean that this person will provide us in any way with an (social) affordance. At least, we can “relate”. Likewise, we relate to those with whom we share capabilities, even though they might be our “competitors”, and we relate with those with whom we share affordances. The sharing of affordances can also introduce competition if these are perceived as resources (affordances that are limited in usage) or cooperation if these are commons (affordances which need maintenance). **The model therefore also not only explains agency, be also how we build social relatedness.**
 
-The **capability** to relate is however honed over time, like **empathy**, **care** and **solicitude**. While these are honed, they are also triggered by **aspirations** and **affordances**. In fact, the **capability** to care fosters **aspiration** for the wellbeing of others, or vice-versa. The model builds on this iterative process between the three components. Hence, the **capability** to care for other will foster the **invention** of **affordances**  to actualise the **aspiration** for their wellbeing, just as the latter will depend on the availability of **affordances** and our **capability** to invent or find those **affordances** in our **environment**.
-
+The **capability** to relate is however honed over time, like **empathy**, **care** and **solicitude**. While these are honed, they are also triggered by **aspirations** and **affordances**. In fact, the **capability** to care fosters **aspiration** for the wellbeing of others, or vice-versa. The model builds on this iterative process between the three components. Hence, the **capability** to care for other will foster the **invention** of **affordances**  to actualise the **aspiration** for their wellbeing, just as the latter will depend on the availability of **affordances** and our **capability** to invent or find those **affordances** in our **environment**
 
 ***
 
-# Aspirations
+# Aspirations, Affordances and Capabilities
+
+Social theory defines agency as the capacity of individuals to act independently and to make their own free choices. From a systemic approach, agency can be divided into three basic dimensions: *aspirations*, *affordances* and *capabilities*. Aspirations define towards what agency leans, affordances, the social and material field onto which it clings, and capabilities, the unfolding by which it operates.
+
+Are there other dimensions to agency? All theories of agency admit, in one way or another, the central place of capabilities to explain choices and actions. An actor’s agency would be bound to what they are capable to perform with the means they have. The basic analysis of agency, whether in everyday life or in the study of complex systems, therefore consists in identifying how the overlap between cognitive and material ressources can maximize utility. Social research often define actors in term of what they achieve for themselves and for the group. The Marxist approach sees capabilities as inherent to social stratification through class awareness and self-determination. The structuralist approach determines capabilities within a broader system that defines their value. For post-structuralist, however, individuals hold the power to develop capabilities that allow them to relocate in an ever-changing context. This is how the opposition between rich and poor, which once defined power and justice, made place to more non-deterministic forms of political contentions. And as a result, ethics rose as a necessary beacon for navigating subsequent moral upheavals.
+
+These definitions have two ontological implications. On the one hand, individuals remain inseparable from their environment, as their capabilities always implies a form of interrelation with other humans or with non humans: actors constantly modify the world, either physically or cognitively. Every action thus ripples through space and time and cannot be conceived as isolated. On the other hand, every actions is functionally bound to the single individual who possesses the necessary capacity to act. Acting without capabilities is not an action that lacks of something, but rather a very different kind of action, maybe even a non-action. 
+
+Thinking of agency in those terms is not as simple as it may seem. Capabilities imply that individuals make one with their environment and that any action is bound to ethics. Moreover, capabilities do not exist on their own; outside of action, they become meaningless. Hence the consubstantiality of ethics and agency: if you change the ethical framework of an action, it becomes a different action. The idea of action without ethics is not a concept, it’s an abstraction.
+
+The difficulty to combine and articulate different ethical frameworks comes from the transformative effect it has on each individual's agency. Philosophers and policymakers who believe that we can create ethical frameworks for the mass like we apply laws and regulations should reconsider what are the limits of the paradigm that turns ethics into norms.
+
+The two other dimensions of agency are less commonly discussed. We could, for example ignore the notion of aspiration by considering that the same action would result from different desires and obligations. Consequentialism for example does not take into account what drives actions but only their outcome. Similarly, deontology also does not give too much importance to aspirations as long as actions respect given norms. As for virtue ethics, it depletes agency from any non-idealistic motivation. Yet, we still act despite foreseeing negative consequences, breaking of rules and down-to-earth yearnings. Thus aspirations provide another dimension of the ethics of agency, which are, if not normative in themselves, a powerful entry point to understand the relationship between actors and their action.
+
+The notion of affordance appears indissociable from action. Laws of physics state that to any action there is a reaction. Formulated otherwise, we could say that any action and reaction are interdependent. Therefore to act—and as mentioned above, we always act unto something—, we need something else to react. This other thing is an affordance. While the most obvious examples of this are objects such as tools and surfaces, these represent a very small fraction of the affordances needed to conduct agency. Affordances can also be social such as the people we engage with, but even entirely immaterial like ideas and memories.
+
+Could we imagine aspirations to be part of affordances? We probably could, the same way that we confine our desires with others to receive their support. The reason I suggest to keep this triadic model is that in looking at the direct interactions between these three dimensions, we might want to consider the interdependency between aspirations/affordances, affordances/capabilities and capabilities/aspirations. For this last couple, capabilities suppose a concrete action, and therefore an aspiration to drive the action, but if we can invent several affordances (in a cityscape for example), we can develop complex aspirations that require many capabilities. In this context, we can conceive diverse sets of aspirations, with different ways to sharing affordances, but this sharing operates thank to the capability of each actor to articulate their use of affordances harmoniously in a given environment. The distinction between aspirations and affordances thus result from the a capability of societies to generate collective agency: each individual agency combines with others to form various levels of collective agencies, that in turn can also interact with one another across levels and degrees of complexity. 
+
+## How the model works (each dimension feeds the other)
+
+The same way we can conceive an aspiration as a affordance, affordances can become capabilities and capabilities, aspirations, and vice-versa. Such deconstruction of *a priori* embedded in social representations, turn the model into a powerful tool to analyze dynamics of agency. For example, we could easily label cooking as a capability. But someone can aspire to cook or to hone their skills in cooking. Alternatively, they can use cooking as a discussion topic, thus affording to a social situation. Cooking is therefore more than just a skill. But what about material affordances, like a stone? Can we consider them as aspirations or capabilities? Take Robinson for example, who, strayed on an island, looks for a stone to crush a coconut. In this example, the stone becomes successively an aspiration, an affordance and a capability. While this example may seem trivial, the same logic applies to much more abstract and complex sets of action.
+
+The possibility for a given concept or object to be described as one dimension of agency or another should not be mistaken with the relationship that each dimension has with the two others. Each dimension can offer a different viewpoint of the same thing, like in the example I gave with Robinson’s stone. But in this example, we understand there is a certain logic in how these dimensions evolve in relation to one another. In short, we could say that aspirations, affordances and capability are co-dependent. They feed on and stimulate each other. This “interaction” between the three dimensions is what generates agency. Figure 1 shows how aspirations, affordances and capabilities generate one another.
+
+*Fig. 1: Interaction Between Dimensions of Agency*
+
+### Aspirations / Affordances
+In the example of Robinson, we see how the stone can be both an aspiration and an affordance to the protagonist’s agency. But  the tale is also full of other aspirations and affordances, which remain undisclosed. What leads Robinson to crash the coconut? Hunger, survival, the desire to see his family and friends again? Likewise, Robinson uses a variety of affordances in his action. Some he uses consciously and some he uses unconsciously: the ground, against which he crashes the coconut, his arm that powers the gesture [!! Develop notion of “embodied affordances” to talk about limbs and physical attributes, eg. beautiful hair and features!!], even the sunlight, which allow him to see what he is doing, etc. A simple action as this requires all these affordances. Many of those are so common to any kind of action, like the air we breath, 
+
+
+## Organizing the dimensions of agency
+
+Aspirations, affordances and capabilities are infinite. Aspirations: Motivation can be bodily or idealistic. Affordances: We can use objects, people, signs and ideas. Capabilities: Skill and aptitude that combine our know-how and the ability to act. As a general rule, we can classify the three dimensions according to different sets of values. The following tables give these values and examples for each of their combinations.
+
+*Table 1: Aspirations value space*
+|          | Basic       | Abstract      |
+|----------|------------ |---------------|
+| Selfish  | Sustenance  | Opportunities |
+| Societal | Sollicitude | Justice       |
+
+*Table 2: Affordances value space*
+|             | Physical   | Social |
+|-------------|------------|--------|
+| Material   | Ressources | Labor  |
+| Immaterial | Commons   | Norms |
+
+*Table 3: Capabilities value space*
+|             | Personal  | Extended |
+|-------------|-----------|----------|
+| Individual  | Movement | Motility | 
+| Social      | Language  | Writting |
+
+Why these values rather than other? In this axiomatic approach, they are best to describe the diversity of variations that exist in each dimension’s infinite space.
+
+## Aspirations
 Aspirations is a universal concept that describes a human reality: desire. From the moment we are born, we desire. The desire not to be exposed to light, the desire for warmth, the desire for food. Of course, only later can we begin conceptualizing, discerning and naming these desires, but this do not mean they do not exist from the moment we come into this world.
 
 With time, our desire multiplies. We start wanting to be held, to be talked to, and to move things. Soon, we want affection, we crave certain food, we want to play with our toys. As we grow older, these aspirations become more abstract, like going to college, traveling, meeting the right person, etc.
@@ -28,7 +81,7 @@ Our desire may even apply to non-humans such as pet, or wild life, flora, and th
 
 In general, aspirations follow two evolutionary paths: one concerns the distance to the self, and the second the degree of abstraction. In [Table 1], I give four examples that illustrate the range of aspirations from basic to abtract and from personal to distant. Unsurprisingly, basic aspirations correspond to those that we develop at an early stage in our life. These also correspond to the “basic needs” such as eating, clothing and shelter. The most basic personal aspirations are somewhat universal. On the other hand, aspirations for distant entities and abstract aspirations vary greatly from one individual to another. 
 
-### Table 1: Aspiration matrix
+*Table 1: Aspiration matrix*
 |          | Basic               | Abstract        |
 |----------|---------------------|-----------------|
 | Personal | Drinking water      | Going to heaven |
@@ -38,7 +91,7 @@ In general, aspirations follow two evolutionary paths: one concerns the distance
 
 The distinction between “aspirations”, “desires” and “wants” may seem thin, and it is. The reason why I use aspirations has to do with the seemingly more abstract nature of the notion. We often associate “desire” with a feeling or an uncontrolable urge. Wants are often opposed to needs, making them seem unecessary, superflous or frivolous. Aspiration, on the contrary are associated with greater ideals and with distant future, which may seem odd to speak of a baby’s aspiration to drink their mothers’ milk. Yet, as we will see, a basic and immediate desire and a greater abstract goal can be put on the same level of importance in given circumstances. Moreover, I argue–and this is one of the main point of this book—that we define distant and abstract aspirations through the same process than we define basic and personal ones: by our capabilities on perceived affordances.
 
-## Where aspirations and desire split
+### Where aspirations and desire split
 Aspirations can be based on desire, but not only. They can also be based on obligation or constraint. For example, one may aspire to a certain status by sense of obligation, or indirectly to fulfil the aspiration of pleasing one’s parents, itself pushed by the aspiration to avoid conflict or feel secure.
 
 The question of conflict should be discussed in details, especially in the context of urban life and governance. What is conflict in the framework of this model? **Conflict**, which should be an integral part of the model, as it is core to ethic. It would seem logic to say that conflict emerges when aspirations differs, when people want different things. But in fact conflict can also emerge when aspirations align. This could be case when capabilities and affordances are not shared, and that the “way” to actualised shared aspirations differs. In fact, most political issues arise not from sharing different aspirations, but honing different capabilities and inventing different affordances. Conflict can also be part of an **aspiration** actualisation process, and therefore embedded in agency. For example, creating conflict between parties can in fact produce affordances needed to actualise one aspirations. Yet, conflict may also emerge when a party does not have the capability to use or invent affordances in the **virtual** **conditions** that would result from the foreseen actualisation of the other’s **perceived** aspirations. In this case, **conflict** would serve to maintain **virtual** **conditions** for this the party can use its **capabilities** and **affordances** to actualise its **aspirations**.
@@ -64,42 +117,38 @@ This prompts me to address the notion of “invites”, in relation to affordanc
 
 This opens up to a very important question of this book: if we can’t produce affordances for others, but only produce configuration which we consider of common usage, what is the relationship between the environment and the agency of actors? How does the transformation we operate in the **environment** relate to the agency of others? Can we “interact” directly on the agency of others, or all our interaction necessarily **mediated** by the environnement? In other words, can we relate? Is empathy real? Since we can’t really know of someone‘s aspirations, capabilities and (perceived) affordances (considered all together in balance within a complex system of aspirations, capabilities and affordances) what creates empathy? What does it mean to “empathize”? What is our relationship with “otherness”? 
 
-
-***
-
-## Aspirations are linked
+### Aspirations are linked
 One aspiration may lead to another. If I want to be successful, it might push me to want to make money, therefore have a good job, therefore go to university. Yet, I might also, instead of wanting to have a job, want to make a lot of money without going to university. 
 
-## Building on aspirations
+### Building on aspirations
 Aspirations can also be built from the bottom up.
 
-## Introducing discrimination
+### Introducing discrimination
 The example of students is a good one because it allows me to introduce some bias. I might want all my students to succeed or all students to suceed, or I may think that only hard-working students should succeed. Instead, I could also aspire for all hard-working and naturally talented students to succeed. Why should students who are naturally gifted and do not have to work hard should fail?
 
 Any aspiration discreminates. When I want something for myself, I want it for me, not for others. If I want something good to happen to my family or to some friends, I don’t wish it necessarily as muhc for other people. I may want the same for everybody, but let‘s just say I don’t care as much. Inversely, I may want something for strangers, but not necessarilly for people that I know. I may consider they don’t deserve it, or that it is no use to them.
 
-## Priorizing aspirations
+### Priorizing aspirations
 Not all aspirations are equal. We consider some aspiration of greater importance. Succeeding in life may seem to us more important than going for a burger. 
 
-## Priority is contextual
+### Priority is contextual
 We may favor one aspiration — say eating something when I am hungry — over another like going for a hike, even though I also want to hike. The way we prioritze aspirations is not absolute, but has to do with context. We would priorize our aspiration to eat if we are starving, over something we deem of greater importance like being true to a friend. Yet, we sometime face these situation where little things take a disproportionate size, as we say. 
 
-## Aspirations depend on context
+### Aspirations depend on context
 Let’s say I walk down the street. If the street happens to be by the parc, I may want to stroll thorugh the automn leaves. If on the street there is a store that caugh my eye, I might enter inside and buy something, something I had never thought of.  
 
-## Modeling aspirations
+### Modeling aspirations
 Aspirations are virtual realities.
 
-## Morality / Normative Ethics
+### Morality / Normative Ethics
 Morality is the collectively defined hierarchy of aspirations. Morality help us navigate our aspirations, it’s to get rid of the need to think for ourselves. Hedonism tells us we have to prioritze our bodily aspirations. Utilitarism tells us to prioritize the many aspirations of the most people as possible.
 
-## Guilt
+### Guilt
 When we go against this priority
-
 
 ***
 
-# Affordances
+## Affordances
 
 Affordances allow us to actualise our aspirations by providing us with *material* (physical and ideal) that "does the job"?
 
@@ -169,51 +218,6 @@ Today, people like Lévy, Soja, Harvey, Fanstein, Gratalou,
 There is an ongoing debate about how to define intelligence, with the aim of creating artificial intelligence systems that can learn like humans. Yan Le Cun suggested recently that intelligence should be conceived as the capacity to predict. Searl, opposed this view in suggesting that instead, intelligence should be defined as the capacity to...
 In this paper, I suggest to conceive intelligence as the capacity to generate new aspirations for oneself. In other words, this would mean giving the machine the liberty to choose what it wants to accomplish, rather than defining for her what she should  do. Without the capacity to aspire, the development of artificial intelligence systems will stall. This does not mean that there won‘t be any innovation on the development of AI methods and technology. Keeping AI within its current paradigms is the best way to refine its efficiency and broader its application. A paradigm shift in AI would brings us back 10 years with the need to rethink completely how we can ask AI to perform certain tasks. Asking, not commanding, because an intelligent AI, like any animal would have its own agency. 
 Current AI models are to plants what aspirational AI is to animals. If you know what to expect from your AI system, then it’s not intelligent enough. Intelligence is not the capacity to foresee but the capacity to create unforseeable outcomes.
-***
-
-## Aspirations, Affordances and Capabilities
-
-Sociology defines agency as the capacity of individuals to act independently and to make their own free choices. From a systemic approach, agency can be divided into three basic dimensions: *aspirations*, *affordances* and *capabilities*. Aspirations define towards what agency leans, affordances, the social and material field onto which it clings, and capabilities, the unfolding by which it operates.
-
-Are there other dimensions to agency? All theories of agency admit, in one way or another, the central place of capabilities to explain choices and actions. An actor’s agency would be bound to what they are capable to perform with the means they have. The basic analysis of agency, whether in everyday life or in the study of complex systems, therefore consists in identifying how the overlap between cognitive and material ressources can maximize utility. Social research often define actors in term of what they achieve for themselves and for the group. The Marxist approach sees capabilities as inherent to social stratification through class awareness and self-determination. The structuralist approach determines capabilities within a broader system that defines their value. For post-structuralist, however, individuals hold the power to develop capabilities that allow them to relocate in an ever-changing context. This is how the opposition between rich and poor, which once defined power and justice, made place to more non-deterministic forms of political contentions. And as a result, ethics rose as a necessary beacon for navigating subsequent moral upheavals.
-
-These definitions have two ontological implications. On the one hand, individuals remain inseparable from their environment, as their capabilities always implies a form of interrelation with other humans or with non humans: actors constantly modify the world, either physically or cognitively. Every action thus ripples through space and time and cannot be conceived as isolated. On the other hand, every actions is functionally bound to the single individual who possesses the necessary capacity to act. Acting without capabilities is not an action that lacks of something, but rather a very different kind of action, maybe even a non-action. 
-
-Thinking of agency in those terms is not as simple as it may seem. Capabilities imply that individuals make one with their environment and that any action is bound to ethics. Moreover, capabilities do not exist on their own; outside of action, they become meaningless. Hence the consubstantiality of ethics and agency: if you change the ethical framework of an action, it becomes a different action. The idea of action without ethics is not a concept, it’s an abstraction.
-
-The difficulty to combine and articulate different ethical frameworks comes from the transformative effect it has on each individual's agency. Philosophers and policymakers who believe that we can create ethical frameworks for the mass like we apply laws and regulations should reconsider what are the limits of the paradigm that turns ethics into norms.
-
-The two other dimensions of agency are less commonly discussed. We could, for example ignore the notion of aspiration by considering that the same action would result from different desires and obligations. Consequentialism for example does not take into account what drives actions but only their outcome. Similarly, deontology also does not give too much importance to aspirations as long as actions respect given norms. As for virtue ethics, it depletes agency from any non-idealistic motivation. Yet, we still act despite foreseeing negative consequences, breaking of rules and down-to-earth yearnings. Thus aspirations provide another dimension of the ethics of agency, which are, if not normative in themselves, a powerful entry point to understand the relationship between actors and their action.
-
-The notion of affordance appears indissociable from action. Laws of physics state that to any action there is a reaction. Formulated otherwise, we could say that any action and reaction are interdependent. Therefore to act—and as mentioned above, we always act unto something—, we need something else to react. This other thing is an affordance. While the most obvious examples of this are objects such as tools and surfaces, these represent a very small fraction of the affordances needed to conduct agency. Affordances can also be social such as the people we engage with, but even entirely immaterial like ideas and memories.
-
-Could we imagine aspirations to be part of affordances? We probably could, the same way that we confine our desires with others to receive their support. The reason I suggest to keep this triadic model is that in looking at the direct interactions between these three dimensions, we might want to consider the interdependency between aspirations/affordances, affordances/capabilities and capabilities/aspirations. For this last couple, capabilities suppose a concrete action, and therefore an aspiration to drive the action, but if we can invent several affordances (in a cityscape for example), we can develop complex aspirations that require many capabilities. In this context, we can conceive diverse sets of aspirations, with different ways to sharing affordances, but this sharing operates thank to the capability of each actor to articulate their use of affordances harmoniously in a given environment. The distinction between aspirations and affordances thus result from the a capability of societies to generate collective agency: each individual agency combines with others to form various levels of collective agencies, that in turn can also interact with one another across levels and degrees of complexity. 
-
-## Organizing the dimensions of agency
-
-Aspirations, affordances and capabilities are infinite. Aspirations: Motivation can be bodily or idealistic. Affordances: We can use objects, people, signs and ideas. Capabilities: Skill and aptitude that combine our know-how and the ability to act. As a general rule, we can classify the three dimensions according to different sets of values. The following tables give these values and give examples for each combination.
-
-### Table 1: Aspiration matrix
-|          | Basic               | Abstract        |
-|----------|---------------------|-----------------|
-| Personal | Drinking water      | Going to heaven |
-| Distant  | No animal suffering | Sustainability  |
-
-### Table 2: Affordance matrix (in the field of design)
-|            | Material  | Social       | Ideal   |
-|------------|-----------|--------------|---------|
-| Ressources | Beam     | Designer     | Style   |
-| Commons   | Landscape | Public space | Concept |
-
-### Table 3: Capabilities matrix
-|             | Personal | Extended      |
-|-------------|----------|---------------|
-| Individual  | Jumping  | Pole jumping | 
-| Social      | Language | Writting     |
-
-
-
-
 
 ***
 
