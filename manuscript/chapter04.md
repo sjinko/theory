@@ -41,15 +41,24 @@ The possibility for a given concept or object to be described as one dimension o
 *Fig. 1: Interaction Between Dimensions of Agency*
 
 ### Aspirations / Affordances
-In the example of Robinson, we see how the stone can be both an aspiration and an affordance to the protagonist’s agency. But  the tale is also full of other aspirations and affordances, which remain undisclosed. What could leads Robinson to crash the coconut? Hunger, survival, the hope to see his family and friends again are a few examples.
+In the example of Robinson, we see how the stone can be both an aspiration and an affordance to the protagonist’s agency. But  the tale is also full of other aspirations and affordances, which remain undisclosed. What could lead Robinson to crash the coconut? Hunger, survival, the hope to see his family and friends again are a few examples of the aspirations of Robinson. 
 
-Likewise, Robinson uses a variety of affordances in his action. Some he uses consciously and some he uses unconsciously: the ground, against which he crashes the coconut, his arm that powers the gesture [!! Develop notion of “embodied affordances” to talk about limbs and physical attributes, eg. beautiful hair and features!!], even the sunlight, which allow him to see what he is doing, etc. A simple action as this requires all these affordances. Many of those being common to any actions, like the air we breath, that we tend to only consider them in life threatening situations [!! Develop notion of “vital affordances”!!]. Table x. Shows an axiomatic typology of affordances and examples that correspond to each type.
+*Table a: Aspirations axiomatic typology*
+|          | Bodily         | Social      |
+|----------|----------------|-------------|
+| Positive | Pleasure       | Motivation  | 
+| Negative | Pain-avoidance | Obligation  |
 
-*Table x: Affordance axiomatic typology*
+
+Likewise, Robinson uses a variety of affordances in his action. Some he uses consciously and some he uses unconsciously: the ground, against which he crashes the coconut, his arm that powers the gesture [!! Develop notion of “embodied affordances” to talk about limbs and physical attributes, eg. beautiful hair and features!!], even the sunlight, which allow him to see what he is doing, etc. A simple action as this requires all these affordances. Many of those being common to any actions, like the air we breath, that we tend to only consider them in life threatening situations [!! Develop notion of “vital affordances”!!]. Table b. Shows an axiomatic typology of affordances and examples that correspond to each type.
+
+*Table b: Affordance axiomatic typology*
 |             | Embodied | Extended |
 |-------------|--------- |----------|
 | Vital       | Organs   | Air      |
 | Situational | Limb     | Tool     |
+
+
 
 >>>>>>>>>>>
 
