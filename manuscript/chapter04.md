@@ -36,7 +36,7 @@ Could we imagine aspirations to be part of affordances? We probably could, the s
 
 The same way we can conceive an aspiration as a affordance, affordances can become capabilities and capabilities, aspirations, and vice-versa. Such deconstruction of *a priori* embedded in social representations, turn the model into a powerful tool to analyze dynamics of agency. For example, we could easily label cooking as a capability. But someone can aspire to cook or to hone their skills in cooking. Alternatively, they can use cooking as a discussion topic, thus affording to a social situation. Cooking is therefore more than just a skill. But what about material affordances, like a stone? Can we consider them as aspirations or capabilities? Take Robinson for example, who, strayed on an island, looks for a stone to crush a coconut. In this example, the stone becomes successively an aspiration, an affordance and a capability. While this example may seem trivial, the same logic applies to much more abstract and complex sets of action.
 
-The possibility for a given concept or object to be described as one dimension of agency or another should not be mistaken with the relationship that each dimension has with the two others. Each dimension can offer a different viewpoint of the same thing, like in the example I gave with Robinson’s stone. But in this example, we understand there is a certain logic in how these dimensions evolve in relation to one another. In short, we could say that aspirations, affordances and capability are co-dependent. They feed on and stimulate each other. This “interaction” between the three dimensions is what generates agency. Figure 1 shows how aspirations, affordances and capabilities generate one another.
+The possibility for a given concept or object to be described as one dimension of agency or another should not be mistaken with the relationship that each dimension has with the two others. Each dimension can offer a different viewpoint of the same thing, like in the example I gave with Robinson’s stone. But in this example, we understand there is a certain logic in how these dimensions evolve in relation to one another. In short, we could say that aspirations, affordances and capability are co-dependent. They feed on and stimulate each other. This “interaction” between the three dimensions is what generates agency. Figure 1 shows how aspirations, affordances and capabilities generate one another. 
 
 *Fig. 1: Interaction Between Dimensions of Agency*
 
@@ -60,9 +60,60 @@ Likewise, Robinson uses a variety of affordances in his action. Some he uses con
 | Vital       | Organs   | Air      |
 | Situational | Limb     | Tool     |
 
+How aspirations and affordances interact? Agency can be described as three dimensions. But these dimensions do not only operate each individually, or take over one after the other like in a assembly chain. Rather, dimensions of agency are ontologically bound to one another and generate each other. There interaction can be described as three reciprocated dyades: (1) aspirations-affordances; (2) affordances-capabilities; and (3) capabilities-aspirations. 
+
+For dyad (1), we can summarize the relationship between the two dimensions as two axioms. 
+
+*axiom 1.*
+> aspirations motivate affordances
+% >>>>>>> Describe axiome
+
+*axiom 2.*
+> affordances frame aspirations
+% >>>>>> Describe axiome 2
+
+*Fig. 1: Generative relationship between aspirations and affordances
+```mermaid
+graph LR
+  Aspirations<-->Affordances;
+```
 
 
->>>>>>>>>>>
+## Affordance/Capabilities
+
+*Fig. 2: Generative relationship between affordances and capabilities 
+```mermaid
+graph LR
+  Affordances<-->Capabilities;
+```
+
+*axiom 3.*
+> affordances fabricate capabilities
+% >>>>>> Describe axiome 3
+
+*axiom 4.*
+> capabilities reveal affordances
+% >>>>>> Describe axiome 4
+
+
+## Capabilities/Aspirations
+
+*Fig. 3: Generative relationship between capabilities and aspirations
+```mermaid
+graph LR
+  Capabilities<-->Aspirations;
+```
+
+*axiom 5.*
+> capabilities invent aspirations
+% >>>>>> Describe axiome 5
+
+*axiom 6.*
+> aspirations develop capabilities
+% >>>>>> Describe axiome 6
+
+
+
 
 ## Organizing the dimensions of agency
 
