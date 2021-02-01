@@ -60,17 +60,18 @@ Likewise, Robinson uses a variety of affordances in his action. Some he uses con
 | Vital       | Organs   | Air      |
 | Situational | Limb     | Tool     |
 
-How aspirations and affordances interact? Agency can be described as three dimensions. But these dimensions do not only operate each individually, or take over one after the other like in a assembly chain. Rather, dimensions of agency are ontologically bound to one another and generate each other. There interaction can be described as three reciprocated dyades: (1) aspirations-affordances; (2) affordances-capabilities; and (3) capabilities-aspirations. 
+How aspirations and affordances interact? Agency can be described as three dimensions. But these dimensions do not only operate each individually, or take over one after the other like in an assembly chain. Rather, dimensions of agency are ontologically bound to one another and generate each other. There interaction can be described as three reciprocated dyades: (1) aspirations-affordances; (2) affordances-capabilities; and (3) capabilities-aspirations. 
 
 For dyad (1), we can summarize the relationship between the two dimensions as two axioms. 
 
 *axiom 1.*
-> aspirations motivate affordances
-% >>>>>>> Describe axiome
+> **Aspirations motivate affordances**
+> Affordances are not given. They do not exist objectively in the environment. Rather, their existence must be motivated by the aspirations for which they become affordances. This is true for both material and social affordances. For example, a rock can become a tool to Robinson, but only if he wants to use it for something. The same rock can provide multiple affordances, or act as multiple tools, depending of what he wants to achieve with it. Robinson’s aspiration to open up the coconut motivates his perception of the rock as a tool to do so. Likewise, a friend may provide different sets of affordances depending on what our aspirations are. The same friend might help us by sharing information, organising a trip or being a confidente. By regarding affordances as the result of aspirations, we can more clearly analyse our agency by looking closely at the affordances we delineate from our environment. We thus get a better grasp of how and where our agency lies, and how we can improve it.
 
 *axiom 2.*
-> affordances frame aspirations
-% >>>>>> Describe axiome 2
+> **Affordances frame aspirations**
+> To understand how affordances influences aspirations gives us a better view of where we are going. Aspirations and affordances interact on one another. In this model, we show that the former is what motivates us to delineate the latter in our environment. Logically, aspirations should therefore precede affordances. However, the interaction between the dimensions of agency is reciprocal, meaning that each dimension act unto the two others. Hence, the influence of affordances on aspirations plays a central role in defining agency. >>>>>>>>>>>
+
 
 *Fig. 1: Generative relationship between aspirations and affordances
 ```mermaid
